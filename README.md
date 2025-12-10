@@ -1,4 +1,4 @@
-# Neural ODE 기반 저지구 궤도(LEO) Kessler Syndrome 예측 모델
+# Neural ODE 기반 저지구 궤도(LEO) Kessler Syndrome 예측
 
 본 프로젝트는 Neural ODE를 활용하여  
 - 위성–파편 상호작용(S–D 시스템) 동역학 재현  
